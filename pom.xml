@@ -10,7 +10,7 @@
 
   <groupId>net.stickycode.composite</groupId>
   <artifactId>sticky-composite-unittest</artifactId>
-  <version>4.1</version>
+  <version>4.2-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>sticky-composite-unittest-3</name>
@@ -24,7 +24,7 @@
   <scm>
     <connection>${git.url}</connection>
     <developerConnection>${git.url}</developerConnection>
-    <tag>sticky-composite-unittest-4.1</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <dependencies>
